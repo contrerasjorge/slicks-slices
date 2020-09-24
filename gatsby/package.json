@@ -56,7 +56,6 @@
     "prettier": "^2.1.1"
   },
   "repository": {
-    "type": "git",
-    "url": "https://github.com/wesbos/slicks-slices"
+    "type": "git"
   }
 }
